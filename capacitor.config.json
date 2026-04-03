@@ -1,0 +1,6 @@
+{
+  "appId": "com.deneme.myapp",
+  "appName": "deneme",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
